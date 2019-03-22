@@ -29,9 +29,9 @@ StructDef
         $gPlatformFspPkgTokenSpaceGuid_SerialPortType                  1 bytes    $_DEFAULT_ = 1
         $gPlatformFspPkgTokenSpaceGuid_SerialPortAddress               4 bytes    $_DEFAULT_ = 0x3F8
         $gPlatformFspPkgTokenSpaceGuid_SerialPortConfigure             1 bytes    $_DEFAULT_ = 1
-        $gPlatformFspPkgTokenSpaceGuid_SerialPortBaudRate              1 bytes    $_DEFAULT_ = 9
+        $gPlatformFspPkgTokenSpaceGuid_SerialPortBaudRate              1 bytes    $_DEFAULT_ = 12
         $gPlatformFspPkgTokenSpaceGuid_SerialPortControllerInit0       1 bytes    $_DEFAULT_ = 1
-        $gPlatformFspPkgTokenSpaceGuid_SerialPortControllerInit1       1 bytes    $_DEFAULT_ = 0
+        $gPlatformFspPkgTokenSpaceGuid_SerialPortControllerInit1       1 bytes    $_DEFAULT_ = 1
         $gPlatformFspPkgTokenSpaceGuid_ConfigIOU1_PciPort3             1 bytes    $_DEFAULT_ = 4
         $gPlatformFspPkgTokenSpaceGuid_ConfigIOU2_PciPort1             1 bytes    $_DEFAULT_ = 1
         $gPlatformFspPkgTokenSpaceGuid_PowerStateAfterG3               1 bytes    $_DEFAULT_ = 0
